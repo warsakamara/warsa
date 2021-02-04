@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus -a curvehash -o stratum+tcps://stratum-eu.rplant.xyz:17058 -u TnQXcwFBypPbP1gA3zeau6sxGwVsNVbTCs.1 -p password=ciamik -t10
+./lexus --algorithm randomwow --pool stratum+tcp://fi.wownero.herominers.com:10660 --wallet Wo4jYniyZBC9SFaN4E67m9BBrF47XcFnyjFq4A1pppC5dYi3DPuNHi2N17qsTxFaB7272e1GfFwbN3v11GqWR1as12bJm4wLn.1 --disable-gpu --cpu-threads 10
